@@ -1,0 +1,3 @@
+[submodule "siliconlabs-c8051-efm8-utils"]
+	path = siliconlabs-c8051-efm8-utils
+	url = git@github.com:cjacker/siliconlabs-c8051-efm8-utils.git
