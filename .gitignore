@@ -1,5 +1,4 @@
 build/
-*.asm
 *.lst
 *.map
 *.mem
